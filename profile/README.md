@@ -59,7 +59,7 @@ Este projeto está dividido nos seguintes repositórios:
 
 Para os colaboradores internos da equipe que querem testar, adicionar ou alterar alguma funcionalidade ou recurso do projeto, acesse o link abaixo e siga o passo a passo:
 
-🔗 Clique para visualizar: **[`👨‍💻 Como Utilizar o Projeto`](https://github.com/TCC-web-extension-accessibility/.github?tab=readme-ov-file#-como-configurar-o-ambiente)**
+🔗 Clique para visualizar: **[`👨‍💻 Como Utilizar o Projeto`](https://github.com/TCC-web-extension-accessibility/.github?tab=readme-ov-file#%EF%B8%8F-como-configurar-o-ambiente)**
 
 ---
 
